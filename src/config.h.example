@@ -1,0 +1,7 @@
+// Configuration Template for Blynk and WiFi Credentials
+#define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "Telecom"
+#define BLYNK_AUTH_TOKEN "YOUR_AUTH_TOKEN"
+
+const char* WIFI_SSID = "YOUR_WIFI_SSID";
+const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
